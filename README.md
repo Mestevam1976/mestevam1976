@@ -21,7 +21,7 @@
   <br><br>
   <a href="https://www.credly.com/badges/858e14f2-5dcd-4102-ba59-c5c0d59c721b/public_url" target="_blank"><img align="center" alt=Márcio-CoCreator" height="95" width="95" img src="https://static.wixstatic.com/media/fa559d_5c4d77996088453eb447bdf422967316~mv2.png/v1/fill/w_95,h_95,al_c,q_85/cocreator.webp"/></a>
   <a href="https://www.credly.com/badges/53271981-37cf-439c-ae9b-745a84618e7d/public_url" target="_blank"><img align="center" alt=Márcio-CoCreator" height="95" width="95" img src="https://static.wixstatic.com/media/fa559d_a3c6b144e31941f09a69012f92bd3805~mv2.png/v1/fill/w_90,h_90,al_c,q_85,usm_0.66_1.00_0.01/enterprise-design-thinking-practitioner.webp"/></a>
-  <a https://www.scrumstudy.com/certification/verify?type=SFC&number=778995" target="_blank"><img align="center" alt=Márcio-SFC" height="100" width="100" img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png"/></a> 
+  <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=778995" target="_blank"><img align="center" alt=Márcio-SFC" height="100" width="100" img src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png"/></a> 
 <p>  
 </div>
   
