@@ -16,10 +16,16 @@
   
   <img align="center" alt="Márcio-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Márcio-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Márcio-Python" height="50" width="60"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="center" alt="Márcio-Python" height="50" width="60"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
-  
+  <img align="center" alt="Márcio-VStudio" height="50" width="60"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="center" alt="Márcio-Jupiter" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
+  <br><br>
+  <a href="https://www.credly.com/badges/858e14f2-5dcd-4102-ba59-c5c0d59c721b/public_url" target="_blank"><img align="center" alt=Márcio-CoCreator" height="95" width="95" img src="https://static.wixstatic.com/media/fa559d_5c4d77996088453eb447bdf422967316~mv2.png/v1/fill/w_95,h_95,al_c,q_85/cocreator.webp"/>
+  <a href="https://www.credly.com/badges/53271981-37cf-439c-ae9b-745a84618e7d/public_url" target="_blank"><img align="center" alt=Márcio-CoCreator" height="95" width="95" img src="https://static.wixstatic.com/media/fa559d_a3c6b144e31941f09a69012f92bd3805~mv2.png/v1/fill/w_90,h_90,al_c,q_85,usm_0.66_1.00_0.01/enterprise-design-thinking-practitioner.webp"/>  
 <p>
+   
+  
+  
+  
 </div>
   <div align="center"> 
   <a href="https://www.youtube.com/channel/UCqPcqSW_VcECSZqJaD54tBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
