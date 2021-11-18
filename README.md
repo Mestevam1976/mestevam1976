@@ -21,14 +21,11 @@
   <br><br>
   <a href="https://www.credly.com/badges/858e14f2-5dcd-4102-ba59-c5c0d59c721b/public_url" target="_blank"><img align="center" alt=Márcio-CoCreator" height="95" width="95" img src="https://static.wixstatic.com/media/fa559d_5c4d77996088453eb447bdf422967316~mv2.png/v1/fill/w_95,h_95,al_c,q_85/cocreator.webp"/>
   <a href="https://www.credly.com/badges/53271981-37cf-439c-ae9b-745a84618e7d/public_url" target="_blank"><img align="center" alt=Márcio-CoCreator" height="95" width="95" img src="https://static.wixstatic.com/media/fa559d_a3c6b144e31941f09a69012f92bd3805~mv2.png/v1/fill/w_90,h_90,al_c,q_85,usm_0.66_1.00_0.01/enterprise-design-thinking-practitioner.webp"/>  
-<p>
-   
-  
-  
-  
+<p>  
 </div>
+  
   <div align="center"> 
-  <a href="https://www.youtube.com/channel/UCqPcqSW_VcECSZqJaD54tBQ" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCqPcqSW_VcECSZqJaD54tBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
    	<a href="https://www.twitch.tv/skywalkerbr1976" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcio.estevam@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcio-estevam-da-silva-mes16876" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
