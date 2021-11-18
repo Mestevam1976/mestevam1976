@@ -2,7 +2,7 @@
 <p align="left">Olá!</p>
 <p align="left">😉 Sou Márcio Estevam da Silva, tenho 45 anos, sou casado e moro em Rio Claro - SP.</p>
 <p align="letf">🧑‍🎓 Atualmente estou em um curso de Análise de Dados.</p>
-<p align="left">😘 Gosto de futebol, sou corinthiano e também curto alguns games, tais como The Last of Us
+<p align="left">😘 Gosto de futebol, sou corinthiano e também curto alguns games, como The Last of Us.
 
 <div align="center">
   
