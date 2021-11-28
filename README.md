@@ -34,5 +34,13 @@
  
  ![Snake animation](https://github.com/Mestevam1976/Mestevam1976/blob/output/github-contribution-grid-snake.svg)
 
+ <p align="center"> 
+
+ ## Visitas ao meu perfil <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Mestevam1976/count.svg" />
+ </p>
+
+</p>
  
 </div>
