@@ -6,11 +6,11 @@
     <td><p align="left"><img        src=https://static.wixstatic.com/media/fa559d_fa2cf4ccc63e4aa6b4139bd9fd83a54c~mv2.jpg/v1/crop/x_74,y_0,w_550,h_595/fill/w_215,h_232,al_c,q_80,usm_0.66_1.00_0.01/marcio.webp">     </p></td>
     <td>
     <p align="center"><h2>About me</h2></p>
-      <p align="left">😉 Hi! My name is Márcio Estevam da Silva, I'm 45 years old.</p>
+      <p align="left">😉 Hi! My name is Márcio Estevam da Silva.</p>
       <p align="left">🏠 I live in Rio Claro, in the state of São Paulo, Brazil.</p>
     <p align="letf">🧑‍🎓 I am currently studying Data Analysis.</p>
-    <p align="left">😘 I'm passionate for soccer and I'm a Corinthians Paulista fan.
-I also like to play some electronics games, especially <b>The Last of Us</b> franchising.</p>
+    <p align="left">😘 I'm passionate about football and I'm a Corinthians supporter.
+I also like to play some video games, especially <b>The Last of Us</b> franchising.</p>
     </td>
   </tr>
 </table></p>
