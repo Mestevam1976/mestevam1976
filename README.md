@@ -31,7 +31,7 @@ I also like to play some video games, especially <b>The Last of Us</b> franchisi
   <img align="center" alt="Márcio-Jupiter" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
   <img align="center" alt="Márcio-Postgres" height="70" width="80" img src="https://static.wixstatic.com/media/fa559d_e8a31db1241d4602b4e4590bd066d1e8~mv2.png/v1/fill/w_207,h_182,al_c,q_85,usm_0.66_1.00_0.01/kisspng-postgresql-database-logo-application-software-comp-iterative-consulting-web-develo.webp">
       <img align="center" alt="Márcio-Pandas" height="80" width="80" src="https://pandas.pydata.org/static/img/pandas_secondary.svg">
-      <img align="center" alt="Márcio-GColab" height="80" width="80" src="https://colab.research.google.com/img/colab_favicon_256px.png">
+      <img align="center" alt="Márcio-Kaggle" height="80" width="280" src="https://static.wixstatic.com/media/fa559d_025e1b1a3ac945ebb03e75bd94b9acea~mv2.gif">
   <br><br>
   <a href="https://www.credly.com/badges/8a4f9cad-0f92-43cb-bc84-2ad169743411/public_url" target="_blank"><img align="center" alt="Márcio -DataScienceIBM-1" height="95" width="95" img src="https://static.wixstatic.com/media/fa559d_1ef88abf7c68464f9d16d1155256aee3~mv2.png/v1/fill/w_95,h_95,al_c,q_85,usm_0.66_1.00_0.01/data-science-foundations-level-1.webp"/></a>
       <a href="https://www.credly.com/badges/858e14f2-5dcd-4102-ba59-c5c0d59c721b/public_url" target="_blank"><img align="center" alt="Márcio-CoCreator" height="95" width="95" img src="https://static.wixstatic.com/media/fa559d_5c4d77996088453eb447bdf422967316~mv2.png/v1/fill/w_95,h_95,al_c,q_85/cocreator.webp"/></a>
