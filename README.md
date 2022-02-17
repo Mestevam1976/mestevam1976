@@ -11,7 +11,7 @@
     <p align="letf">🧑‍🎓 I am currently studying Data Analysis.</p>
     <p align="left">😘 I'm passionate about football and I'm a Corinthians supporter.
 I also like to play some video games, especially <b>The Last of Us</b> franchising.</p>
-      <p align="left">🔭 Visit my Kaggle: <a href="https://www.kaggle.com/mrcioestevamdasilva" target="_blank">Márcio Estevam da Silva</a></p>
+      <p align="left">🔭 Visit my Kaggle: <a href="https://www.kaggle.com/mrcioestevamdasilva" target="_blank" rel="noopener noreferrer">Márcio Estevam da Silva</a></p>
     </td>
   </tr>
 </table></p>
