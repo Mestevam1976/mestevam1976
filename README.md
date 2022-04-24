@@ -8,7 +8,8 @@
     <p align="center"><h2>About me</h2></p>
       <p align="left">😉 Hi! My name is Márcio Estevam da Silva.</p>
       <p align="left">🏠 I live in Rio Claro, in the state of São Paulo, Brazil.</p>
-    <p align="letf">🧑‍🎓 I am currently studying Data Analysis.</p>
+    <p align="letf">🧑‍🎓 I'm completing a Data Analysis course and I'm also studying Computer Science.</p>
+    <p align="left">&nbsp &nbsp &nbsp I have a degree in Environmental Management and a specialization in Environmental Sustainability.</p>
     <p align="left">😘 I'm passionate about football and I'm a Corinthians supporter.
 I also like to play some video games, especially <b>The Last of Us</b> franchising.</p>
       <p align="left">🔭 Visit my Kaggle: <a href="https://www.kaggle.com/mrcioestevamdasilva" target="_blank" rel="noopener noreferrer">Márcio Estevam da Silva</a></p>
