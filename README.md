@@ -8,7 +8,7 @@
     <p align="center"><h2>About me</h2></p>
       <p align="left">😉 Hi! My name is <b>Márcio Estevam da Silva</b>.</p>
       <p align="left">🏠 I live in Rio Claro, in the state of São Paulo, <b>Brazil</b>.</p>
-    <p align="letf">🧑‍🎓 I'm completing a <b>Data Analysis</b> course and I'm also studying <b>Computer Science</b>.</p>
+    <p align="letf">🧑‍🎓 I have completed a Data Analysis course (@ Resília Educação bootcamp) and I'm also studying <b>Computer Science</b>.</p>
       <p align="left">&nbsp &nbsp &nbsp I have a degree in <b>Environmental Management</b> and a specialization in <b>Environmental Sustainability</b>.</p>
     <p align="left">😘 I'm passionate about football and also I like to play some video games.</p>
       <p align="left">🔭 Visit my Kaggle: <a href="https://www.kaggle.com/mrcioestevamdasilva" target="_blank" rel="noopener noreferrer">Márcio Estevam da Silva</a></p>
@@ -30,12 +30,17 @@
   <img align="center" alt="Márcio-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Márcio-VStudio" height="50" width="60"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Márcio-Jupiter" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
-  <img align="center" alt="Márcio-Postgres" height="70" width="80" img src="https://static.wixstatic.com/media/fa559d_e8a31db1241d4602b4e4590bd066d1e8~mv2.png/v1/fill/w_207,h_182,al_c,q_85,usm_0.66_1.00_0.01/kisspng-postgresql-database-logo-application-software-comp-iterative-consulting-web-develo.webp">
       <img align="center" alt="Márcio-Pandas" height="80" width="80" src="https://pandas.pydata.org/static/img/pandas_secondary.svg">
       <img align="center" alt="Márcio-Kaggle" height="80" width="280" src="https://static.wixstatic.com/media/fa559d_025e1b1a3ac945ebb03e75bd94b9acea~mv2.gif">
-      <img align="center" alt="Márcio-Kaggle" height="160" width="140" src="https://jfox.com.br/wp-content/uploads/2020/07/kisspng-tableau-software-computer-software-logo-business-i-solutions-hiq-labs-5ba37fd00080f3.8961677415374417440021.png">
-      <img align="center" alt="Márcio-Kaggle" height="40" width="100" src="https://seeklogo.com/images/M/microsoft-power-bi-logo-15C526F81D-seeklogo.com.png">      
-  <br><br>
+      <img align="center" alt="Tableau" height="160" width="140" src="https://jfox.com.br/wp-content/uploads/2020/07/kisspng-tableau-software-computer-software-logo-business-i-solutions-hiq-labs-5ba37fd00080f3.8961677415374417440021.png">
+      <img align="center" alt="PowerBI" height="40" width="100" src="https://static.wixstatic.com/media/fa559d_4b495a216e094b78a95a2684a954ad63~mv2.png/v1/fill/w_268,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/pngegg.png"> 
+      <hr>
+      <img align="center" alt="Márcio-Postgres" height="80" width="100" img src="https://static.wixstatic.com/media/fa559d_e8a31db1241d4602b4e4590bd066d1e8~mv2.png/v1/fill/w_207,h_182,al_c,q_85,usm_0.66_1.00_0.01/kisspng-postgresql-database-logo-application-software-comp-iterative-consulting-web-develo.webp">
+      <img align="center" alt="AWS_Redshift" height="80" width="150" src="https://static.wixstatic.com/media/fa559d_ee71f759d3554e96810203ee9a4d06a6~mv2.png/v1/fill/w_185,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/amazon_redshift.png">
+      <img align="center" alt="MySql" height="40" width="120" src="https://static.wixstatic.com/media/fa559d_ba51cf10f1a44f1bac8c72310c019ed7~mv2.png/v1/fill/w_186,h_96,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/pngegg%20(1).png">
+      <img align="center" alt="BigQuery" height="90" width="90" src="https://static.wixstatic.com/media/fa559d_303d631c64fa4091a24fd3f5c588db77~mv2.png/v1/fill/w_109,h_104,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/pngegg%20(2).png">
+      <img align="center" alt="DBT" height="40" width="150" src=https://static.wixstatic.com/media/fa559d_2aa30d0a4ed84649a36bf0881fe051dd~mv2.png/v1/fill/w_147,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/dbt-logo.png">
+  <hr>
   <a href="https://www.credly.com/badges/8a4f9cad-0f92-43cb-bc84-2ad169743411/public_url" target="_blank"><img align="center" alt="Márcio -DataScienceIBM-1" height="95" width="95" img src="https://static.wixstatic.com/media/fa559d_1ef88abf7c68464f9d16d1155256aee3~mv2.png/v1/fill/w_95,h_95,al_c,q_85,usm_0.66_1.00_0.01/data-science-foundations-level-1.webp"/></a>
       <a href="https://www.credly.com/badges/858e14f2-5dcd-4102-ba59-c5c0d59c721b/public_url" target="_blank"><img align="center" alt="Márcio-CoCreator" height="95" width="95" img src="https://static.wixstatic.com/media/fa559d_5c4d77996088453eb447bdf422967316~mv2.png/v1/fill/w_95,h_95,al_c,q_85/cocreator.webp"/></a>
   <a href="https://www.credly.com/badges/53271981-37cf-439c-ae9b-745a84618e7d/public_url" target="_blank"><img align="center" alt=Márcio-CoCreator" height="95" width="95" img src="https://static.wixstatic.com/media/fa559d_a3c6b144e31941f09a69012f92bd3805~mv2.png/v1/fill/w_90,h_90,al_c,q_85,usm_0.66_1.00_0.01/enterprise-design-thinking-practitioner.webp"/></a>
