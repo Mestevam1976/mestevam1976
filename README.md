@@ -31,7 +31,7 @@
   <img align="center" alt="Márcio-VStudio" height="50" width="60"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="Márcio-Jupiter" height="50" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
       <img align="center" alt="Márcio-Pandas" height="80" width="80" src="https://pandas.pydata.org/static/img/pandas_secondary.svg">
-      <img align="center" alt="Márcio-Kaggle" height="80" width="280" src="https://static.wixstatic.com/media/fa559d_025e1b1a3ac945ebb03e75bd94b9acea~mv2.gif">
+      <img align="center" alt="Márcio-Kaggle" height="60" width="100" src="https://static.wixstatic.com/media/fa559d_e059e61d8b71406c832b1e29e81b6dd4~mv2.png/v1/fill/w_196,h_89,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/pngegg%20(4).png">
       <img align="center" alt="Tableau" height="160" width="140" src="https://jfox.com.br/wp-content/uploads/2020/07/kisspng-tableau-software-computer-software-logo-business-i-solutions-hiq-labs-5ba37fd00080f3.8961677415374417440021.png">
       <img align="center" alt="PowerBI" height="40" width="100" src="https://static.wixstatic.com/media/fa559d_4b495a216e094b78a95a2684a954ad63~mv2.png/v1/fill/w_268,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/pngegg.png"> 
       <hr>
