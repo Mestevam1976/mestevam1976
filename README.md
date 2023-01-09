@@ -55,9 +55,8 @@
  <a href="https://api.whatsapp.com/send?phone=5519998421176&text=Oi%20Márcio" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a href="https://twitter.com/Estevma" target="_blank"><img src="https://img.shields.io/twitter/follow/Estevma?style=for-the-badge"></a>
     
- 
  ![Snake animation](https://github.com/Mestevam1976/Mestevam1976/blob/output/github-contribution-grid-snake.svg)
-
+ 
  <p align="center"> 
 
  ## Visitas ao meu perfil <br>
