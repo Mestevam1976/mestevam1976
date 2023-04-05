@@ -1,4 +1,4 @@
-<p align="right"><img src="https://safersocietygr.wpenginepowered.com/wp-content/uploads/2018/04/Gif-animation-hello.gif" width="350"></p>
+<marquee direction="down">HELLO WORLD!</marquee>
 
 <p align="center"><table border="2">
   <tr>
