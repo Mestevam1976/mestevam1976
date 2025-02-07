@@ -52,12 +52,10 @@
   
   <div align="center"> 
   <a href="https://www.youtube.com/channel/UCqPcqSW_VcECSZqJaD54tBQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marcio.estevam@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marcio.estevam@yahoo.com"><img src="https://img.shields.io/badge/Yahoo Mail%23333?style=for-the-badge&logo=Yahoo!&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcio-estevam-da-silva-mes16876" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://api.whatsapp.com/send?phone=5519998421176&text=Oi%20Márcio" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  
-    
- ![Snake animation](https://github.com/Mestevam1976/Mestevam1976/blob/output/github-contribution-grid-snake.gif)
+
  
  <p align="center"> 
 
